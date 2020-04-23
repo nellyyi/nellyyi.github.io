@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
 title: Nellyyi's Notes 
 description: I write about machine learning, computer vision and science. This page is to keep track of my current favourite networks. 
